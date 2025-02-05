@@ -1,0 +1,173 @@
+
+body{
+	margin:0 ;
+	font-family:"playfair",serif;
+	font-size: 16px;
+	font-weight: 400;
+	padding: 10px;
+	color: #a2a4a5;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.padding-to-30{
+	padding-top: 30px;
+}
+
+.main-container{
+	padding: 50px;
+}
+
+.container,
+.third-section{
+	overflow: hidden;
+	
+}
+
+section{
+	padding: 50px 0;
+}
+
+.padding100{
+	padding: 80px;
+}
+
+.logoDiv{
+	width: 50%;
+	float: left;
+	overflow: hidden;
+}
+
+.menuDiv{
+	width: 50%;
+	float: left;
+	overflow: hidden;
+}
+
+.logo{
+	padding: 5px 0 0;
+	width: 12%;
+	float: left;
+	border: 1px solid;
+
+}
+
+.logo a{}
+
+.logo a img{
+	width: 100%;
+  }
+
+.menu{
+	float: right;	
+}
+.menu ul{
+	text-align: right;
+}
+
+.menu ul li{
+	 list-style: none;
+	 float: left;
+	 padding-right: 40px;
+}
+
+.menu ul li a{
+	text-decoration: none;
+	color: #adadad;
+}
+
+
+.menu ul li a:hover{
+	background: #ffffff;
+}
+
+.fourth-section{
+	overflow: hidden;
+}
+
+
+.section-heading{
+	color: #adadad;
+}
+
+.section-div{
+	width: 48%;
+	float: left;
+	overflow: hidden;
+	padding-right: 2%;
+}
+
+.section-div img{
+	width: 100%;
+}
+
+.section-title{
+	font-size: 20px;
+	font-weight: bold;
+	color: #818283;
+	padding: 10px 0;
+}
+
+.lower-section-title{
+	font-size: 17px;
+	font-weight: bold;
+	color: #d8d9da;
+	padding: 15px 0;
+	font-family: Arial;
+}
+
+.news-letter-section,
+.footer-section{
+	overflow: hidden;
+	background-color: #eceeef;
+}
+
+.news-letter-section h2{
+	padding-top: 60px;
+	text-align: center;
+	color: #707172;
+}
+
+.news-letter-section p{
+	padding-top: 30px;
+	text-align: center;
+}
+
+.news-letter-section span{
+	border-bottom: 1px solid #adadad;
+	padding: 5px 0;
+}
+
+.sixth-section{
+	text-align: center;
+	overflow: hidden;
+}
+
+.sixth-section span{
+	text-align: center;
+	padding: 15px;
+	border: 1px solid #adadad;
+}
+
+.footer-padding{
+	padding: 0 100px;
+}
+
+.footer-padding .section-div ul li{
+	list-style-type: none;
+	list-style: none;
+	float: left;
+	padding-right: 10px;
+	color: #818283;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.section-div p img {
+	width: 40px;
+	padding-right: 5px;
+	vertical-align: middle;
+}
